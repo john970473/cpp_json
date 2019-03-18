@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cpp_json_test", "cpp_json_test\cpp_json_test.vcxproj", "{777832A3-68C3-4677-BCC2-C06BE7CE9457}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{777832A3-68C3-4677-BCC2-C06BE7CE9457}.Debug|x64.ActiveCfg = Debug|x64
+		{777832A3-68C3-4677-BCC2-C06BE7CE9457}.Debug|x64.Build.0 = Debug|x64
+		{777832A3-68C3-4677-BCC2-C06BE7CE9457}.Debug|x86.ActiveCfg = Debug|Win32
+		{777832A3-68C3-4677-BCC2-C06BE7CE9457}.Debug|x86.Build.0 = Debug|Win32
+		{777832A3-68C3-4677-BCC2-C06BE7CE9457}.Release|x64.ActiveCfg = Release|x64
+		{777832A3-68C3-4677-BCC2-C06BE7CE9457}.Release|x64.Build.0 = Release|x64
+		{777832A3-68C3-4677-BCC2-C06BE7CE9457}.Release|x86.ActiveCfg = Release|Win32
+		{777832A3-68C3-4677-BCC2-C06BE7CE9457}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC9A0268-030B-4401-B1B9-7665516C611E}
+	EndGlobalSection
+EndGlobal
